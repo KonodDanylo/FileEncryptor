@@ -1,0 +1,4 @@
+login - iAmUser
+password - password321123
+
+# This is just like a basic example how your sensitive data could look like :/ 
