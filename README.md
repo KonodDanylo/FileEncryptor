@@ -6,7 +6,9 @@ This application allows you to encrypt and decrypt files using the cryptography 
 
 ~ Encryption: You can encrypt a file of your choice, which will be secured with a generated encryption key. This ensures that the file contents are protected and unreadable without the key. 🔒
 
-~ Decryption: You can decrypt an encrypted file using the corresponding encryption key. Only with the correct key can you retrieve the original file contents. 🔓
+~ Decryption: You can decrypt an encrypted file using the corresponding encryption key. Only with the correct key can you retrieve the original file contents. ✅
+
+~ Logging: The app also performs logging functions, which help track and record important events during the encryption and decryption processes. 📝
 
 How to use the app? 💻🔧
 Choose an option from the menu:
@@ -31,6 +33,13 @@ Decryption Process:
 - The program will check if the provided password matches the saved password.
 - If the passwords match, the file will be decrypted and the original content will be restored.
 - The encryption key and password files will be deleted after successful decryption.
-- That's it! 🎉 You can now encrypt and decrypt files using this simple and secure File Encryptor App. Enjoy protecting your sensitive data! 🔐
+- 
+Logging:
+
+- The app performs logging functions and records important events during encryption and decryption.
+- A log file named app.log is created, which contains valuable information for debugging and troubleshooting purposes.
+
+
+That's it! 🎉 You can now encrypt and decrypt files using this simple and secure File Encryptor App. Enjoy protecting your sensitive data! 🔐
 
 Feel free to contribute, provide feedback, or report any issues on GitHub. Happy coding! 😄🐙
