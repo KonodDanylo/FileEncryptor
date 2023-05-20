@@ -2,6 +2,7 @@
 Welcome to the File Encryptor App! 😊🔐
 
 What can this application do? 📝🔒
+
 This application allows you to encrypt and decrypt files using the cryptography module in Python. 🔑
 
 ~ Encryption: You can encrypt a file of your choice, which will be secured with a generated encryption key. This ensures that the file contents are protected and unreadable without the key. 🔒
@@ -26,6 +27,7 @@ Encryption Process:
 - The encryption key will be saved in a separate file (.key) alongside the encrypted file.
 - The password used for encryption will be saved in a separate file (.pwd) for decryption purposes.
 
+
 Decryption Process:
 
 - Enter the filename of the encrypted file to be decrypted.
@@ -33,7 +35,8 @@ Decryption Process:
 - The program will check if the provided password matches the saved password.
 - If the passwords match, the file will be decrypted and the original content will be restored.
 - The encryption key and password files will be deleted after successful decryption.
-- 
+
+
 Logging:
 
 - The app performs logging functions and records important events during encryption and decryption.
