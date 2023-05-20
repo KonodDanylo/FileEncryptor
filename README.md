@@ -1,4 +1,4 @@
-# File Encryptor App 🔐:
+# File Encryptor App 💠!
 Welcome to the File Encryptor App! 😊🔐
 
 What can this application do? 📝🔒
@@ -14,8 +14,8 @@ Choose an option from the menu:
 3) Exit: Quit the program.
 Encryption Process:
 
-Set a password to encrypt the file. 🔑
-Provide the filename to be encrypted.
+Set a password to encrypt the file. 🔑 
+Provide the filename to be encrypted. \n
 The file will be encrypted using a randomly generated encryption key.
 The encryption key will be saved in a separate file (.key) alongside the encrypted file.
 The password used for encryption will be saved in a separate file (.pwd) for decryption purposes.
