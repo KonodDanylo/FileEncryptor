@@ -12,13 +12,16 @@ Choose an option from the menu:
 1) Encrypt data: Encrypt a file by providing a password and the filename.
 2) Decrypt data: Decrypt an encrypted file using the encryption key and password.
 3) Exit: Quit the program.
+
+
 Encryption Process:
 
-Set a password to encrypt the file. 🔑 
-Provide the filename to be encrypted. \n
-The file will be encrypted using a randomly generated encryption key.
-The encryption key will be saved in a separate file (.key) alongside the encrypted file.
-The password used for encryption will be saved in a separate file (.pwd) for decryption purposes.
+- Set a password to encrypt the file. 🔑 
+- Provide the filename to be encrypted. 
+- The file will be encrypted using a randomly generated encryption key.
+- The encryption key will be saved in a separate file (.key) alongside the encrypted file.
+- The password used for encryption will be saved in a separate file (.pwd) for decryption purposes.
+
 Decryption Process:
 
 Enter the filename of the encrypted file to be decrypted.
